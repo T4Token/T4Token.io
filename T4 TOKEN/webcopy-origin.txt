@@ -1,0 +1,564 @@
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\malgo.finance\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\malgo.finance\ajax\libs\font-awesome\6.2.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;0,800;1,100;1,200&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-6
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-5
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Russo+One&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap
+File Name: C:\Downloaded Web Sites\malgo.finance\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZogUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvgUE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rowdies/v15/ptRMTieMYPNBAK219gtm5O4.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\rowdies\v15\ptRMTieMYPNBAK219gtm5O4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsH-yA.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\russoone\v14\Z9XUDmZRWg6M1LvRYsH-yA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zendots/v10/XRXX3ICfm00IGoesQeaE.ttf
+File Name: C:\Downloaded Web Sites\malgo.finance\s\zendots\v10\XRXX3ICfm00IGoesQeaE.ttf
+Content Type: font/ttf
+
+Uri: https://malgo.finance/
+File Name: C:\Downloaded Web Sites\malgo.finance\index.htm
+Content Type: text/html
+
+Uri: https://malgo.finance/about-us.html
+File Name: C:\Downloaded Web Sites\malgo.finance\about-us.html
+Content Type: text/html
+
+Uri: https://malgo.finance/app/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\malgo.finance\app\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://malgo.finance/app/dist/aos.css
+File Name: C:\Downloaded Web Sites\malgo.finance\app\dist\aos.css
+Content Type: text/css
+
+Uri: https://malgo.finance/app/dist/app.css
+File Name: C:\Downloaded Web Sites\malgo.finance\app\dist\app.css
+Content Type: text/css
+
+Uri: https://malgo.finance/app/dist/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\malgo.finance\app\dist\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://malgo.finance/app/js/aos.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\aos.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/app.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\app.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/count-down.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\count-down.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/jquery.easing.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\jquery.easing.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/mouse.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\mouse.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/particles-function.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\particles-function.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/js/swiper.js
+File Name: C:\Downloaded Web Sites\malgo.finance\app\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://malgo.finance/app/scss/custom.css
+File Name: C:\Downloaded Web Sites\malgo.finance\app\scss\custom.css
+Content Type: text/css
+
+Uri: https://malgo.finance/assets/fonts/icomoon.eot?oe5mqk
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://malgo.finance/assets/fonts/icomoon.svg?oe5mqk
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/fonts/icomoon.ttf?oe5mqk
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://malgo.finance/assets/fonts/icomoon.woff?oe5mqk
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://malgo.finance/assets/images/artwork.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\artwork.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/background-card.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background-card.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background-full.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background-full.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/banner-music.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\banner-music.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/banner-top-6.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\banner-top-6.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-4.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-404.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-404.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-banner-nft.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-banner-nft.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-banner-top-4.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-banner-top-4.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-bd.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-bd.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-choose.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-choose.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-comingsoon.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-comingsoon.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-document-01.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-document-01.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-document-box.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-document-box.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-document.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-document.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-features.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-features.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-iconbox.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-iconbox.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-join-music.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-join-music.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-join.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-join.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-pagetitle.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-pagetitle.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-roadmap-3.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-roadmap-3.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-roadmap-5.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-roadmap-5.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/bg-roadmap.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-roadmap.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-team-5.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-team-5.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/bg-team.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\bg-team.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/gradient.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\gradient.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/background/platform-bg.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\platform-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/background/Slider.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\background\Slider.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/blockchain.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\blockchain.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/BSC-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\BSC-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/card.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\card.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/cryptocurrency.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\cryptocurrency.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/debit-card.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\debit-card.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/Defi-marketplace.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\Defi-marketplace.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/defi-wallet-graphic.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\defi-wallet-graphic.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/defi-wallets.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\defi-wallets.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/Dependable.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\Dependable.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/digitaljournal-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\digitaljournal-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/exchange-card.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\exchange-card.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/Exchange.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\Exchange.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/exchnage-malgo.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\exchnage-malgo.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/financeyahoo-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\financeyahoo-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/Futurelounge-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\Futurelounge-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/icon/End.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\icon\End.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/item/item-banner-1.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\item\item-banner-1.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/item/item-banner-2.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\item\item-banner-2.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/item/nft-rm-01.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\item\nft-rm-01.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/item/nft-rm-02.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\item\nft-rm-02.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/item/nft-rm-03.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\item\nft-rm-03.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/layout/roadmap-7.1.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\layout\roadmap-7.1.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/layout/roadmap-7.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\layout\roadmap-7.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/Leverage.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\Leverage.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/logo/favicon.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\logo\favicon.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/logo/logo-main.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\logo\logo-main.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/malgo-bitmart.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\malgo-bitmart.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/malgo-icoholder.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\malgo-icoholder.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/malgo-pinksale.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\malgo-pinksale.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/malgo-zambie.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\malgo-zambie.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/marketwatch-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\marketwatch-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/MF-partner0.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\MF-partner0.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/MF-partner1.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\MF-partner1.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/MF-partner2.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\MF-partner2.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/MF-partner3.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\MF-partner3.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/NFT-video-bg.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\NFT-video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/nft.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\nft.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/NFTmarketplace-card.png
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\NFTmarketplace-card.png
+Content Type: image/png
+
+Uri: https://malgo.finance/assets/images/report.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\report.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/security.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\security.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/swap.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\swap.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/usefriendly.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\usefriendly.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/user-experience.svg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\user-experience.svg
+Content Type: image/svg+xml
+
+Uri: https://malgo.finance/assets/images/video-bg.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/images/yahoo-malgo.jpg
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\images\yahoo-malgo.jpg
+Content Type: image/jpeg
+
+Uri: https://malgo.finance/assets/T4-TOKEN.pdf
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\MALGO-FINANCE.pdf
+Content Type: application/pdf
+
+Uri: https://malgo.finance/assets/style.css
+File Name: C:\Downloaded Web Sites\malgo.finance\assets\style.css
+Content Type: text/css
+
+Uri: https://malgo.finance/contact-us.html
+File Name: C:\Downloaded Web Sites\malgo.finance\contact-us.html
+Content Type: text/html
+
+Uri: https://malgo.finance/difi-wallet.html
+File Name: C:\Downloaded Web Sites\malgo.finance\difi-wallet.html
+Content Type: text/html
+
+Uri: https://malgo.finance/exchange.html
+File Name: C:\Downloaded Web Sites\malgo.finance\exchange.html
+Content Type: text/html
+
+Uri: https://malgo.finance/index.html
+File Name: C:\Downloaded Web Sites\malgo.finance\index.html
+Content Type: text/html
+
+Uri: https://malgo.finance/marketplace.html
+File Name: C:\Downloaded Web Sites\malgo.finance\marketplace.html
+Content Type: text/html
+
